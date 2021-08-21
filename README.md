@@ -6,7 +6,7 @@ Walkthrough of Entry 1:
 
 <img src='http://g.recordit.co/RnSAVcPXQY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Entry 2 - August 2021: Developed the notification system and test it with closed market conditions where the price of the stock would remain constant
+Entry 2 - August 2021: Developed the notification system and test it with closed market conditions where the price of the stock would remain constant. I am able to add at least a single limit and get notified when the stock reaches that limit.
 
 Walkthrough of Entry 2:
 
