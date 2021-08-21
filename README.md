@@ -5,5 +5,11 @@ Entry 1- August 2021 : Began developing the initial demo of the product with ver
 Walkthrough of Entry 1:
 
 <img src='http://g.recordit.co/RnSAVcPXQY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Entry 2 - August 2021: Developed the notification system and test it with closed market conditions where the price of the stock would remain constant
+
+Walkthrough of Entry 2:
+
+<img src='http://g.recordit.co/x9htOPDY4v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   
   
