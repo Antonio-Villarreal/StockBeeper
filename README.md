@@ -6,6 +6,7 @@ Walkthrough of Entry 1:
 
 <img src='http://g.recordit.co/RnSAVcPXQY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<hr>
 
 Entry 2 - August 2021: Developed the notification system and test it with closed market conditions where the price of the stock would remain constant. I am able to add at least a single limit and get notified when the stock reaches that limit. When a line prints in the notification center of the frontend the code before sends the text notification being sent to my personal cellular device.
 
