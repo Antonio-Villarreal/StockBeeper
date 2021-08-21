@@ -12,7 +12,7 @@ Walkthrough of Entry 2:
 
 <img src='http://g.recordit.co/x9htOPDY4v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Below is the code I use to send the 'text notification' to my device. In reality since I have not found a free option in Python to text another phone I utilize my email and email my phone number which still sends a text notification to my device:
+Below is the code I use to send the 'text notification' to my device. In reality since I have not found a free option in Python to text another phone I utilize my email and email my phone number which still sends a text notification to my device (I concealed my login information to protect my email's security):
 
 ![image](https://user-images.githubusercontent.com/73606672/130324767-2749213c-fb70-44c7-8ef2-2a6f6bf5eae0.png)
 
