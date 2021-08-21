@@ -21,3 +21,5 @@ Below is the code I use to send the 'text notification' to my device. In reality
 Below is a screenshot from my iPhone which shows what the limit notification looks like from the other end:
 
 ![image](https://user-images.githubusercontent.com/73606672/130324880-d94e61df-5163-4d83-a045-0878e6faf897.png)
+
+<hr>
