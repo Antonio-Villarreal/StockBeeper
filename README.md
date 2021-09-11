@@ -24,6 +24,6 @@ Below is a screenshot from my iPhone which shows what the limit notification loo
 
 <hr>
 
-Entry 3 - September 2021: Completed a second practice test on my Stock Beeper executable during open market conditions and the system printed the notification to the dashboard and still notified my phone so I have confirmed that the code does indeed work for a single stock and for one notification in open market.
+Entry 3 - September 2021: Completed a second practice test on my Stock Beeper executable during open market conditions and the system printed the notification to the dashboard and still notified my phone so I have confirmed that the code does indeed work for a single stock and for one notification in open market. Note I am still having issues with the code detecting an open or closed market and that is a problem that I have to solve.
 
 <img src='http://g.recordit.co/BwB6soM7Mm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
